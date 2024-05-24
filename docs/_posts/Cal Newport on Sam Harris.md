@@ -1,6 +1,6 @@
 ---
 created: 2024-05-22T07:00:12+01:00
-modified: 2024-05-24T07:50:43+01:00
+modified: 2024-05-24T07:52:22+01:00
 ---
 
 # Cal Newport on Sam Harris
@@ -15,3 +15,4 @@ modified: 2024-05-24T07:50:43+01:00
 1.15.45 - administrative overload can lead to fatigue and a feeling the work isn't enjoyable, despite it being on the surface good work. "Self deterministic theory"
 1.20.25 - end of long question / monologue by Sam about how his work and passions overlap massively, but he senses in culture that people aren't prepared for mass leisure and freedom
 1.22.00 - against anti-work - we want to work
+1.25.00 - "we want to do something that's appreciated" - sam
