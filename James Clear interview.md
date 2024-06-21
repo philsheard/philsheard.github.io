@@ -1,6 +1,6 @@
 ---
 created: 2024-06-21T07:25:43+01:00
-modified: 2024-06-21T19:17:49+01:00
+modified: 2024-06-21T19:19:37+01:00
 ---
 
 # James Clear interview
@@ -37,3 +37,5 @@ The choice of 1% better Vs 1% worse really builds up over time
 44 - Choices set the trajectory, and Habits define how far along the line you get
 
 46 - "your habits set your floor, your strategy sets your ceiling"
+
+47.30 - meditation can help you direct your attention but James prefers to design an environment and system to make good habits almost automated
