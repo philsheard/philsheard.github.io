@@ -1,6 +1,6 @@
 ---
 created: 2024-06-21T07:25:43+01:00
-modified: 2024-06-21T19:23:07+01:00
+modified: 2024-06-21T19:23:33+01:00
 ---
 
 # James Clear interview
@@ -43,3 +43,6 @@ The choice of 1% better Vs 1% worse really builds up over time
 49.30 - brushing teeth example, strive for 'automaticity'. 
 
 System = A pattern where many prior decisions have been encoded so you don't need to make them again.
+
+4 laws of behaviour change:
+-
