@@ -1,6 +1,9 @@
 ---
 created: 2024-06-23T12:26:51+01:00
 modified: 2024-06-23T12:42:54+01:00
+date: 2024-06-23
+published: true
+title: Research suggests LLMs are used heavily in 10% of academic research papers
 ---
 
 # Research suggests LLMs are used heavily in 10% of new academic submissions
