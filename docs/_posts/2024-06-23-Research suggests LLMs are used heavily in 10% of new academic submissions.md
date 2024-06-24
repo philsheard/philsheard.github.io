@@ -23,6 +23,6 @@ I'd go further and say that the average marketing or comms person without leet p
 
 Sidenote: This is a good example of what Roger Martin has written about, [where (esp. unskilled) use of LLMs by definition leads to average results](https://rogermartin.medium.com/strategy-artificial-intelligence-6f719015b8fc).
 
-Sidenote two: They also contained the lovely phrase "excess vocabulary" to describe the filler words that often get added to this type of writing. AI has a tendency to waffle unless you specificall prompt to avoid this.
+Sidenote two: They also coined the phrase "excess vocabulary" to describe the filler words that often get added to this type of writing. AI has a tendency to waffle unless you specificall prompt to avoid this. The phrase was inspired by the similar "excess deaths" that was used during Covid times to estimate how many extra lives were lost above the typical amount forecast for that time. 
 
 Sidenote three: I looked for a summary of this research paper online to link to and the only one I found seemed to contain an example of this AI excess vocabulary, suggesting it was itself AI generated. Oh the irony.
