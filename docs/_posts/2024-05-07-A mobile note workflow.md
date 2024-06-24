@@ -1,6 +1,7 @@
 ---
 created: 2024-05-07T15:52:16+01:00
 modified: 2024-05-07T15:52:57+01:00
+published: false
 ---
 
 # A mobile note workflow
