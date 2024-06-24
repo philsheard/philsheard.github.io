@@ -3,17 +3,22 @@ created: 2024-06-23T12:26:51+01:00
 modified: 2024-06-23T12:42:54+01:00
 date: 2024-06-23
 published: true
-title: Research suggests LLMs are used heavily in 10% of academic research papers
+title: Research into scientific papers identifies some LLM giveaways
 ---
 
-# Research suggests LLMs are used heavily in 10% of new academic submissions
+Interesting article on Hacker news over the weekend: [Delving into ChatGPT usage in academic writing through excess vocabulary](https://news.ycombinator.com/item?id=40763133)
 
-https://news.ycombinator.com/item?id=40763133
+Researchers [analysed over a decade of academic research abstracts](https://arxiv.org/abs/2406.07016) and looked for words that had risen significantly since the widespread usage of LLMs in 2022 when ChatGPT launched. Their results show up a few words that have suddently spiked in usage, giving us pointers about what language ticks an LLM is likely to introduce and also gives an indication of how widespread usage of ChatGPT was in submissions (answer: average 10% of papers, with up to 30% in some categories).
 
-The researchers analysed over a decade of academic research abstracts and looked for words that had risen significantly since the widespread usage of LLMs in 2022 when ChatGPT launched.
+The words they identified include "delve", "showcase" and "potential". Importantly these aren't new words to the language, but they were not so popular in academic research before widespread adoption of LLMs so the increase stands out.
 
-The words include "delve", "showcase" and "potential". Importantly these aren't new words to the language, but they were not so popular in academic research before widespread adoption of LLMs so the increase stands out.
+[One of the replies](https://news.ycombinator.com/item?id=40763577) to the post on Hacker News observes that LLMs are trained on public content that can disproportionately feature marketing materials compared to actual conversational language. Whether or not you ask for 'marketing style' writing when using an LLM to autogenerate text, you might be getting it anyway due to the natural bias of the training data.
 
-What might this mean? Ironically, we all will have to work harder to a avoid these cliches and words so that our readers don't switch off and ignore our work as part of the AI generated soup. This is a good example of what Roger Martin has written about, [where (unskilled) use of LLMs by definition leads to average results]().
+## What might this mean for you? 
+Iif you want to use an LLM to help you write, you have to be more hands-on with our prompting and work harder to a avoid these cliches and words so that our readers don't switch off and ignore our work as just more AI generated word soup.
 
-Some of the discussion around this article on Hacker News is around how LLMs are trained on public content that will disproportionately feature marketing materials. Whether or not you ask for 'marketing style' writing when using an LLM to autogenerate text, you might be getting it anyway due to the natural bias of the training data.
+Sidenote: This is a good example of what Roger Martin has written about, [where (esp. unskilled) use of LLMs by definition leads to average results](https://rogermartin.medium.com/strategy-artificial-intelligence-6f719015b8fc).
+
+Sidenote two: They also contained the lovely phrase "excess vocabulary" to describe the filler words that often get added to this type of writing. AI has a tendency to waffle unless you specificall prompt to avoid this.
+
+Sidenote three: I looked for a summary of this research paper online to link to and the only one I found seemed to contain an example of this AI excess vocabulary, suggesting it was itself AI generated. Oh the irony.
