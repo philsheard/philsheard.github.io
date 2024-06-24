@@ -15,7 +15,11 @@ The words they identified include "delve", "showcase" and "potential". Important
 [One of the replies](https://news.ycombinator.com/item?id=40763577) to the post on Hacker News observes that LLMs are trained on public content that can disproportionately feature marketing materials compared to actual conversational language. Whether or not you ask for 'marketing style' writing when using an LLM to autogenerate text, you might be getting it anyway due to the natural bias of the training data.
 
 ## What might this mean for you? 
-Iif you want to use an LLM to help you write, you have to be more hands-on with our prompting and work harder to a avoid these cliches and words so that our readers don't switch off and ignore our work as just more AI generated word soup.
+If you use an LLM to help you write, you have to be more hands-on with prompting and work harder to avoid these cliches. What's the point of using AI to improve your writing only to make it more generic and ignorable?
+
+I'd go further and say that the average marketing or comms person without leet prompting skillz should only be using an LLM to create a rough draft or outline, and make sure that the final output feels authentically yours. In other sectors I think the risk is smaller but when you're selling communication skills, you really shouldn't be delegating that to an AI.
+
+---
 
 Sidenote: This is a good example of what Roger Martin has written about, [where (esp. unskilled) use of LLMs by definition leads to average results](https://rogermartin.medium.com/strategy-artificial-intelligence-6f719015b8fc).
 
